@@ -1,9 +1,11 @@
+package input_output.Q1;
+
 import java.util.Scanner;
 
 /**
- * Q1
+ * Main
  */
-public class Q1 {
+public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
